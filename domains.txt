@@ -1,2 +1,4 @@
 .*\.ru\.$ # route all .RU domains
 .*\.ozon\.travel\.$ # route ozon.travel which is known Russian
+.*\.readovka\.news\.$
+.*\.readovka\.net\.$
