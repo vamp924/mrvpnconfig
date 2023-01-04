@@ -1,1 +1,1 @@
-.*\.avito\.ru\.$ # route exclusion for avito.ru which doesn't like datacenters
+.*avito\.ru\.$ # route exclusion for avito.ru which doesn't like datacenters
